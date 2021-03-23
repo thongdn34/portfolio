@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2d4b8ade.chunk.css",
+    "main.js": "/portfolio/static/js/main.754f8560.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.754f8560.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b09e5616.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b09e5616.js.map",
+    "static/css/2.7f21e25b.chunk.css": "/portfolio/static/css/2.7f21e25b.chunk.css",
+    "static/js/2.5aa27c0f.chunk.js": "/portfolio/static/js/2.5aa27c0f.chunk.js",
+    "static/js/2.5aa27c0f.chunk.js.map": "/portfolio/static/js/2.5aa27c0f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.5f0f3c682b147a69bc306beb2b1f4aa0.js": "/portfolio/precache-manifest.5f0f3c682b147a69bc306beb2b1f4aa0.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.7f21e25b.chunk.css.map": "/portfolio/static/css/2.7f21e25b.chunk.css.map",
+    "static/css/main.2d4b8ade.chunk.css.map": "/portfolio/static/css/main.2d4b8ade.chunk.css.map",
+    "static/js/2.5aa27c0f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5aa27c0f.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/portfolio/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/portfolio/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/portfolio/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/portfolio/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/dribble.svg": "/portfolio/static/media/dribble.db57da79.svg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.aa1e8c9c.svg",
+    "static/media/logo-yellow.svg": "/portfolio/static/media/logo-yellow.789bce48.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.39c5f3c6.svg",
+    "static/media/mobile-close.svg": "/portfolio/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/portfolio/static/media/mobile-menu.10823520.svg",
+    "static/media/partner01.svg": "/portfolio/static/media/partner01.1f6de9f0.svg",
+    "static/media/partner02.svg": "/portfolio/static/media/partner02.d8f2a498.svg",
+    "static/media/partner03.svg": "/portfolio/static/media/partner03.0d091731.svg",
+    "static/media/partner04.svg": "/portfolio/static/media/partner04.81292e3c.svg",
+    "static/media/partner05.svg": "/portfolio/static/media/partner05.d39e28a3.svg",
+    "static/media/partner06.svg": "/portfolio/static/media/partner06.a0c63ad5.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.0ecdf21a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b09e5616.js",
+    "static/css/2.7f21e25b.chunk.css",
+    "static/js/2.5aa27c0f.chunk.js",
+    "static/css/main.2d4b8ade.chunk.css",
+    "static/js/main.754f8560.chunk.js"
+  ]
+}
